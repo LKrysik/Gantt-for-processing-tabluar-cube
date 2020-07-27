@@ -1,10 +1,10 @@
-# H1 Gantt for processing tabluar cube for on-premise services
+# Gantt for processing tabluar cube for on-premise services
  Creates gantt based on extended events for processing tabular cube
 
-## H2 What for
+## What for
 If you want find bottlenecks in processing tabular cube with this simple code you can analyse progress of table processing inside tabluar cube 
 
-## H2 How use this simple code
+## How use this simple code
 1. Open SSMS 
 2. Connect to your tabluar instance
 3. Open and execute XMLA exev_tabular_processing_session.xmla (provide path where XEL file will be stored)
